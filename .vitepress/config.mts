@@ -6,7 +6,6 @@ export default defineConfig({
   title: 'WSZ的CS小窝',
   description: '收集各种计算机知识',
   outDir: 'dist',
-  base: '/wsz-blog/',
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
